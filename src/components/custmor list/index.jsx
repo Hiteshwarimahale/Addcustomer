@@ -246,6 +246,8 @@ const Clist = () => {
           <button> Add Customer </button>
 
         </form>
+
+        <img src=  {john} />
       </div>
 
     </div>
