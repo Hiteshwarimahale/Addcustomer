@@ -1,0 +1,238 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F8;
+
+
+}
+
+ul {
+
+    margin: 0;
+    background-color: #FFFFFF;
+    width: 200px;
+    padding: 0;
+    height: 855px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+    font-family: "Nunito", sans-serif;
+
+}
+
+#base1 {
+    top: 35px;
+    position: relative;
+    left: 50px;
+    color: #030229;
+    font-weight: 600;
+    font-size: 22px
+}
+
+#first {
+    position: relative;
+    left: -7px;
+    top: 12px;
+}
+
+#dash {
+    position: relative;
+    top: 5px;
+    left: -10px;
+}
+
+#dashboard1 {
+
+    position: relative;
+    top: 65px;
+    left: 30px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+
+
+}
+
+
+#analytics {
+    position: relative;
+    top: 45px;
+    left: -28px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#ana1 {
+    position: relative;
+    top: 20px;
+    left: 18px;
+   
+}
+
+#ana2 {
+    position: relative;
+    top: 6px;
+    left: -10px;
+}
+
+
+#invoice1 {
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+
+#invo {
+    position: relative;
+    left: -8px;
+    top: 8px;
+
+}
+
+#shedual1 {
+    position: relative;
+    top: 54px;
+    left: 22px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#shed {
+    position: relative;
+    left: -5px;
+    top: 6px;
+}
+
+#calender1 {
+    position: relative;
+    top: 59px;
+    left: 26px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#calen {
+    position: relative;
+    left: -7px;
+    top: 3px;
+    opacity: 40%;
+}
+
+#message1 {
+
+    position: relative;
+    top: 60px;
+    left: 1px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#messag {
+    position: relative;
+    top: 7px;
+    left: 18px;
+}
+
+#fournine {
+    position: relative;
+    left: 125px;
+    top: 2px;
+    background-color: #e1dbdc;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+#notification1 {
+    position: relative;
+    top: 60px;
+    left: 20px;
+    font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#noti {
+position: relative;
+top: 7px;
+left: -2px;
+
+}
+
+#setting1 {
+   position: relative;
+   top: 59px;
+   left: 20px;
+   font-size: 16px;
+    color: gray;
+    font-weight: 590;
+}
+
+#set {
+ position: relative;
+ top: 5px;
+ left: -3px;
+}
+
+#upgrade {
+    display: flex;
+    margin-top: 92px;
+    margin-left: 20px;
+    height: 190px;
+    width: 160px;
+}
+
+#btn1 {
+    margin-left: 45px;
+    padding: 7px;
+    width: 137px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    background-color: #605BFF;
+    font-family: "Nunito", sans-serif;
+    color: #FFFFFF;
+    font-size: 12px;
+
+
+}
+
+#photo {
+    position: relative;
+    top:30px;
+    left: 21px;
+}
+
+#free1 {
+   position: relative;
+   top: 26px;
+   left: 31px;
+}
+
+#logout1 {
+    position: relative;
+    top: 20px;
+    left: 55px;
+}
+
+
+
+
+/*<button id='btn1' > Upgradenow  </button>*/

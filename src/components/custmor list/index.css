@@ -1,0 +1,237 @@
+table {
+    position: absolute;
+    left: 14.50%;
+    top: 90px;
+    width: 56%;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #F7F7F8;
+    display: table;
+    border-radius: 30px;
+}
+
+th,
+td {
+
+    border-top: 8px solid;
+    border-bottom: 8px solid;
+    border-color: #F7F7F8;
+    padding: 12.30px;
+    font-family: "Nunito", sans-serif;
+    border-collapse: collapse;
+
+}
+
+
+th {
+    position: relative;
+    top: -8px;
+    color: #5a5a61;
+    font-size: 12px;
+    font-weight: 450;
+    border-radius: 50px;
+}
+
+td {
+    position: relative;
+    left: 10px;
+    font-size: 13px;
+    color: #030229;
+    text-align: center;
+
+}
+
+#name1 {
+    position: absolute0;
+    right: 40px;
+    text-align: center;
+}
+
+#email1 {
+
+    position: absolute0;
+    right: 28px;
+
+    text-align: center;
+}
+
+#phone1 {
+
+
+    position: relative;
+    left: 15px;
+}
+
+#gender1 {
+
+    position: relative;
+    right: 75px;
+}
+
+#mailid1 {
+
+    padding-left: -30px;
+}
+
+.mani {
+    /* border: 2px solid red; */
+    width: 850px;
+    height: 800px;
+    position: absolute;
+    top: 120px;
+    left: 220px;
+}
+
+.mani1 {
+    height: 55px;
+    width: 95%;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 8px;
+    font-family: "Nunito", sans-serif;
+    font-size: 13px;
+    color: #030229;
+    font-weight: 580;
+    
+
+}
+
+#one {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#img1 {
+    margin-right: 12px;
+}
+
+#table-email {
+
+ position: absolute;
+ left:215px;
+  
+
+
+}
+
+#table-number {
+
+    position: absolute;
+    left:470px;
+     
+   
+}   
+
+#table-gender{
+    position: absolute;
+    left: 652px;
+}
+
+
+
+
+
+/* form css*/
+form {
+    position: relative;
+    left: 5%;
+    top: 250px;
+    height: 200px;
+    width: 200px;
+    font-family: "Nunito", sans-serif;
+    font-size: 13px;
+    font-weight: 450;
+
+}
+
+input {
+    color: black;
+    background-color: #F7F7F8;
+    position: relative;
+
+}
+
+.f1 {
+    position: relative;
+    top: 11px;
+    display: block;
+    width: 320px;
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: "Nunito", sans-serif;
+
+
+}
+
+legend {
+    text-align: left;
+    position: relative;
+    right: 3px;
+    bottom: 240px;
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    color: #030229;
+    font-weight: 600;
+}
+
+#d2 {
+    position: absolute;
+    top: 0;
+    left: 72%;
+    height: 850px;
+    width: 425px;
+    background-color: #FFFFFF;
+}
+
+h3 {
+    position: absolute;
+    top: 10px;
+    left: 220px;
+    font-family: "Nunito", sans-serif;
+    font-size: 21px;
+
+}
+
+#cross1 {
+    position: relative;
+    left: 225px;
+    top: 15px;
+}
+
+#camera1 {
+    position: absolute;
+    bottom: 200px;
+    left: 110px;
+}
+
+button {
+    position: relative;
+    top: 20px;
+    border-style: none;
+    padding: 10px;
+    width: 345px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 13px;
+    background-color: #605BFF;
+    color: #FFFFFF;
+}
+
+#arrow1 {
+    position: absolute;
+    top: 421px;
+    left: 300px;
+}
+
